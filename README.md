@@ -1,2 +1,2 @@
-# CFD-Eutectic-TES
-Computational Modelling of Eutectic Metal Alloy Mg-51%Zn for Thermal Energy Storage Using the Enthalpy Method 
+# Project Description
+This project models the phase change behavior of a eutectic Mg-51%Zn alloy in a thermal energy storage (TES) system using ANSYS Fluent. It implements the enthalpy-porosity method to simulate melting and solidification under turbulent heat transfer conditions. The simulation focuses on validating temperature evolution, analyzing energy storage efficiency, and evaluating the effects of flow direction and velocity on heat transfer. Post-processing includes thermal field visualization, liquid fraction tracking, and enthalpy-based efficiency analysis.
